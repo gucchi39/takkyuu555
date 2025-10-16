@@ -1,0 +1,7 @@
+# Node / general
+node_modules/
+.DS_Store
+.env
+
+# Visual Studio Code
+.vscode/
